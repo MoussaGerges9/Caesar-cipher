@@ -1,0 +1,1 @@
+Simple C# GUI application for encryption and decryption using Caesar cipher algorithm, for those who do not know this algorithm, it depends on entering a sentence and the letters change according to a numeric key you choose. Also i limited user inputs to prevent errors
